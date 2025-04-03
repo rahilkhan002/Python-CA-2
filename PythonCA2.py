@@ -104,4 +104,3 @@ plt.xlabel("Year")
 plt.grid()
 plt.show()
 
-print("✅ Analysis Complete!")
